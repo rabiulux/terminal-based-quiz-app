@@ -1,1 +1,1 @@
-gi
+Terminal based quiz app.
